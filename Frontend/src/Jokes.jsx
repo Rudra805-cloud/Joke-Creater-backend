@@ -34,7 +34,7 @@ function Jokes() {
             })
     }
     if(joke.length==0){
-        return null;
+        return null
     }
   return (
     <>
